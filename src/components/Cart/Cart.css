@@ -1,0 +1,19 @@
+.cart {
+  position: sticky;
+  top: 0;
+  right: 0;
+}
+.cart h4 {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cartInfo {
+  padding: 0 15px;
+  font-weight: 400;
+}
+.cartInfo h5 span {
+  color: white;
+}
+
